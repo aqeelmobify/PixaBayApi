@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidTask</string>
+    <string name="pixabay_posts">PixaBay Posts</string>
+    <string name="aqeel_ahmed">Aqeel Ahmed</string>
+    <string name="_123">123</string>
+    <string name="enter_countable_text">Enter Countable Text</string>
+    <string name="check_result">Check Result</string>
+    <string name="unique_words_result_is">Unique Words Result is:</string>
+    <string name="the_cat_and_hat">the cat and hat</string>
+    <string name="enter_some_words_to_check">Enter some words to check</string>
+    <string name="check_unique_words_task">Check Unique Words Task</string>
+    <string name="count_unique_words">"Count Unique Words "</string>
+</resources>
